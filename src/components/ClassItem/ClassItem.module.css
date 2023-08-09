@@ -12,3 +12,13 @@
     line-height: 48px;
     text-decoration: none;
 }
+
+.classItem:hover {
+    opacity: 0.6;
+    transition: all 0.3s ease;
+}
+
+
+.classItem:active {
+    opacity: 0.3;
+}
