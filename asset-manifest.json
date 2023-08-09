@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/School/static/css/main.6afc311c.css",
+    "main.js": "/School/static/js/main.9092ba42.js",
+    "static/media/avatar.png": "/School/static/media/avatar.57eb8729296ef8b3fa72.png",
+    "index.html": "/School/index.html",
+    "main.6afc311c.css.map": "/School/static/css/main.6afc311c.css.map",
+    "main.9092ba42.js.map": "/School/static/js/main.9092ba42.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6afc311c.css",
+    "static/js/main.9092ba42.js"
+  ]
+}
