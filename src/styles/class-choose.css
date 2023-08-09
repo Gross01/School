@@ -1,0 +1,22 @@
+.class-choose {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.class-choose__title {
+    color: #ffffff;
+    font-size: 35px;
+    line-height: 24px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
+
+.class-choose__classes {
+    padding: 0 265px;
+    display: grid;
+    grid-template-columns: repeat(4, 150px);
+    gap: 60px;
+    text-align: center;
+}

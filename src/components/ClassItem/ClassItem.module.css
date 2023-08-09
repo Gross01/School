@@ -1,0 +1,14 @@
+.classItem {
+    width: 150px;
+    height: 95px;
+    background-color: #474965;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+    cursor: pointer;
+    color: #aaacb8;
+    font-size: 40px;
+    line-height: 48px;
+    text-decoration: none;
+}
